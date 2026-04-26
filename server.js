@@ -3,7 +3,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 
-const studentRoutes = require("./routes/studentRoutes");
+const studentRoutes = require("./routes/studentroutes");
 
 const app = express();
 
